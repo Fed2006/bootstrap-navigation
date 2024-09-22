@@ -1,0 +1,18 @@
+#page{
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+html{
+    scroll-behavior:smooth;
+}
+ul{
+    color: white;
+}
+li{
+    padding:10px;
+}
+button{
+    color:white;
+}
